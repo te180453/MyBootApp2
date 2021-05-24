@@ -10,6 +10,6 @@ public class HelloController
 {
     @RequestMapping("/taro")
     public String index(){
-        return "Taro desu!";
+        return "taro desu!";
     }
 }
